@@ -59,7 +59,7 @@
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
   <Sequence DisplayName="Sequence" sap2010:WorkflowViewState.IdRef="Sequence_1">
-    <adac:MessageBox DisplayName="Message Box" Text="[&quot;Mert&quot;]" sap2010:WorkflowViewState.IdRef="MessageBox_1" />
+    <adac:MessageBox DisplayName="Message Box" Text="[&quot;Tuna&quot;]" sap2010:WorkflowViewState.IdRef="MessageBox_1" />
     <sads:DebugSymbol.Symbol>dw1DOlxFbXB0eS54YW1sAA==</sads:DebugSymbol.Symbol>
   </Sequence>
   <sap2010:WorkflowViewState.ViewStateManager>
