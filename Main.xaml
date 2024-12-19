@@ -51,10 +51,14 @@
       <AssemblyReference>System.Xaml</AssemblyReference>
       <AssemblyReference>ArenaRobotics.Domain</AssemblyReference>
       <AssemblyReference>Microsoft.Graph</AssemblyReference>
+      <AssemblyReference>System.Memory</AssemblyReference>
+      <AssemblyReference>Microsoft.Bcl.AsyncInterfaces</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.Composition</AssemblyReference>
+      <AssemblyReference>System.Memory.Data</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
   <Sequence DisplayName="Sequence" sap2010:WorkflowViewState.IdRef="Sequence_1">
-    <adac:MessageBox DisplayName="Message Box" Text="[&quot;Test&quot;]" sap2010:WorkflowViewState.IdRef="MessageBox_1" />
+    <adac:MessageBox DisplayName="Message Box" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Mert&quot;]" />
     <sads:DebugSymbol.Symbol>dw1DOlxFbXB0eS54YW1sAA==</sads:DebugSymbol.Symbol>
   </Sequence>
   <sap2010:WorkflowViewState.ViewStateManager>
